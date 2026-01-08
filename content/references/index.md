@@ -1,5 +1,5 @@
 ---
-title: References
+title: references
 description: Sources, citations, and external material
 tags:
   - reference

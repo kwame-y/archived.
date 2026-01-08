@@ -63,13 +63,13 @@ if something looks useful, please treat it as a starting point
 
 ---
 
-## status & stats
-- 9 notes
-- 0 attachments
-- 9 files
-- 4 links
-- 461 words
-- 4.83 KB of storage
+## status & stats[^1]
+- 178 notes
+- 88 attachments
+- 266 files
+- 2727 links
+- 91,963 words
+- 72.5 MB of storage
 
 
 once again, this site is actively under construction.  
@@ -84,3 +84,5 @@ if you’re looking for something specific, start here:
 - [[ideas/index|ideas]]
 
 otherwise — have fun wandering :)
+
+[^1]: kinda skewed because of my old stuff
